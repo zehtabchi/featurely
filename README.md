@@ -1,4 +1,4 @@
-# featurely
+# Featurely
 Featurely: A KSP Feature Flag Library for Android
 
 Featurely is a lightweight and easy-to-use library that leverages Kotlin Symbol Processing (KSP) to streamline feature flag management in your Android applications. By using annotations, the library automatically generates a centralized registry, eliminating manual setup and reducing the potential for errors.
